@@ -1,6 +1,7 @@
 # SpectrumSensing-and-MaliciousUsersClassification
 
 The Cognitive Radio based Internet of Things (CR-IoT) is a promising technology that provides IoT endpoints, i.e., CR-IoT users the capability to share the radio spectrum otherwise allocated to licensed Primary Users (PUs). Cooperative Spectrum Sensing (CSS) improves spectrum sensing accuracy in a CR-IoT network. However, its performance may be degraded by potential attacks of the malicious CR-IoT users that send their incorrect sensing information to the corresponding Fusion Center (FC). This study presents a promising Machine Learning (ML)-based malicious user detection scheme for a CR-IoT network that uses a Support Vector Machine (SVM) algorithm to identify and classify malicious CR-IoT users.
+[paper link:](https://doi.org/10.1016/j.mlwa.2021.100052)
 
 
 ### Spectrum sensing:
